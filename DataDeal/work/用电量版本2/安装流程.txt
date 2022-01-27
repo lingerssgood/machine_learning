@@ -1,0 +1,11 @@
+1、先安装python.exe。
+2、进入D:\python\Python310\Scripts文件，安装如下包：
+numpy
+matplotlib
+openpyxl
+pandas
+psycopg2
+xlwt
+pyecharts(更新)
+xlrd(更新)
+2、pip install  xlrd -i https://pypi.douban.com/simple
